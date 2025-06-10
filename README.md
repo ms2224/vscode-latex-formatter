@@ -62,6 +62,8 @@ VSCode側でフォーマッターを有効化し，自動整形などのエデ�
 1. `Ctrl + Shift + P` でコマンドパレットを開く．
 2. 「`settings.json`」と入力し，「**Preferences: Open User Settings (JSON)**」を選択．
 3. `settings.json`に下記設定を追記する．
+4. 任意のフォーマットが崩れたTexファイルを開いて `Alt + Shift + F` で自動整形する．
+5. 自動整形できてたら完成！
 
 ```json
 {
