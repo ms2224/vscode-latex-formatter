@@ -64,8 +64,8 @@ VSCode側でフォーマッターを有効化し，自動整形などのエデ�
 
 ```json
 {
-    "latex-workshop.latex.formatter.provider": "latexindent",
-    "latex-workshop.latex.formatter.latexindent.path": "latexindent"
+    "latex-workshop.formatting.latex": "latexindent",
+    "latex-workshop.formatting.latexindent.path": "latexindent",
 }
 ```
 
@@ -81,8 +81,8 @@ VSCode側でフォーマッターを有効化し，自動整形などのエデ�
         "editor.formatOnSave": true,
     }
 
-    "latex-workshop.latex.formatter.provider": "latexindent",
-    "latex-workshop.latex.formatter.latexindent.path": "latexindent",
+    "latex-workshop.formatting.latex": "latexindent",
+    "latex-workshop.formatting.latexindent.path": "latexindent",
 }
 ```
 
