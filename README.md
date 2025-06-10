@@ -19,6 +19,7 @@ Windows環境のVSCodeでLaTeX Workshopを使い，`latexindent`でソースコ�
 
 1. [Strawberry Perlの公式サイト](http://strawberryperl.com/)へアクセス．
 2. 推奨バージョンをダウンロードし，インストーラーの指示に従いインストールする．
+3. PCを再起動する．
 
 インストール後，コマンドプロンプト等で `perl -v` を実行し，バージョン情報が表示されればOK．
 
@@ -64,6 +65,8 @@ VSCode側でフォーマッターを有効化し，自動整形などのエデ�
 
 ```json
 {
+    //他のsetting.jsonの設定
+
     "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.formatting.latexindent.path": "latexindent",
 }
