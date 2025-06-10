@@ -82,7 +82,7 @@ VSCode側でフォーマッターを有効化し，自動整形などのエデ�
     "[tex]": {
         "editor.defaultFormatter": "James-Yu.latex-workshop",
         "editor.formatOnSave": true,
-    }
+    },
 
     "latex-workshop.formatting.latex": "latexindent",
     "latex-workshop.formatting.latexindent.path": "latexindent",
