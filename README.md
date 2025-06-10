@@ -99,3 +99,7 @@ VSCode側でフォーマッターを有効化し，自動整形などのエデ�
 - [【大学生向け】LaTeX完全導入ガイド Windows編 (2022年) - Qiita](https://qiita.com/passive-radio/items/623c9a35e86b6666b89e)
 - [VSCode で最高の LaTeX 環境を作る - Qiita](https://qiita.com/rainbartown/items/d7718f12d71e688f3573)
 - [Windows環境での LaTeX in Vscode - HackMD](https://hackmd.io/@w0htNoPRRV2reDrTZHL5_w/BkM-zbj-B)
+
+## 謝辞 (Acknowledgements)
+
+本手順書の作成にあたり，内容のレビューにご協力いただいた [@38by](https://github.com/38by) さんに，心より感謝申し上げます．
