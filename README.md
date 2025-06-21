@@ -17,6 +17,8 @@ Windows環境のVSCodeでLaTeX Workshopを使い，`latexindent`でソースコ�
 
 `latexindent` はPerlスクリプトのため，Perlの実行環境が必要．今回は **Strawberry Perl** でインストール．
 
+（3. の ```latexindent -V``` が通ればPerlのインストールは不要？ texliveインストール時に ```"C:\texlive\2024\bin\windows\latexindent.exe"``` があった．）
+
 1. [Strawberry Perlの公式サイト](http://strawberryperl.com/)へアクセス．
 2. 推奨バージョンをダウンロードし，インストーラーの指示に従いインストールする．
 3. PCを再起動する．
