@@ -1,7 +1,7 @@
 # VSCode + LaTeXフォーマッター(latexindent) 導入手順メモ
 
 Windows環境のVSCodeでLaTeX Workshopを使い，`latexindent`でソースコードを自動整形するための設定手順．
-追記：Linux環境ではtexliveフルでインストールして```setting.json````書き換えるだけで行けそう．
+追記：Linux環境ではtexliveフルでインストールして```setting.json```書き換えるだけで行けそう．
 
 ## 1. 前提
 
